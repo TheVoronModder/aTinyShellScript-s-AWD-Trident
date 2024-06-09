@@ -15,7 +15,10 @@ Parts list:
     <td>aTinyShellScript AWD Plates</td>
     <td>$31.99</td>
     <td>https://west3d.com/products/voron-v2-4-awd-mod-by-atinyshellscript-kit-by-west3d-nema17-and-nema14-4-motor?variant=44026091274452</td>
-    <td>https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/29a0dbc0-ba08-4f0e-8304-6448d514e445</td>
+    <td>img src=https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/29a0dbc0-ba08-4f0e-8304-6448d514e445></img></td>
+
+
+        
   </tr>
   <tr>
     <td>Master Assembly - 2</td>
