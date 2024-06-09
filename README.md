@@ -16,15 +16,12 @@ Parts list:
     <td>$31.99</td>
     <td>https://west3d.com/products/voron-v2-4-awd-mod-by-atinyshellscript-kit-by-west3d-nema17-and-nema14-4-motor?variant=44026091274452</td>
     <td><img src=https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/29a0dbc0-ba08-4f0e-8304-6448d514e445></img></td>
-
-
-        
-  </tr>
-  <tr>
-    <td>Master Assembly - 2</td>
-    <td>Rev B</td>
-    <td>In Progress</td>
-    <td>updating gantry motor mounts to 3030 by removing the outside angle piece, its too weak and can break of easily</td>
+ </tr>
+   <tr>
+    <td>NEMA 17 2804's</td>
+    <td>$23.99 x4 = $95.96</td>
+    <td>https://west3d.com/products/ldo-motors-42sth48-2804ah-super-speedy-super-power-high-temp-nema-17-stepper-motor-high-performance-high-temperature?variant=43843282796756)</td>
+    <td><img src=https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/5c94f26c-05ed-4282-a9b0-8050a3970a59</img></td>
   </tr>
   <tr>
     <td>Rapid Burner Mod</td>
@@ -45,3 +42,4 @@ Parts list:
 .
 
 ![nema17](https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/29a0dbc0-ba08-4f0e-8304-6448d514e445)
+![ldo-motors-42sth48-2804ah-ac-super-speedy-super-power-high-temp-nema-17-stepper-motor-high-performance-high-temperature-west3d-printing-ldo-motors-892125](https://github.com/TheVoronModder/aTinyShellScript-s-AWD-Trident/assets/142328467/5c94f26c-05ed-4282-a9b0-8050a3970a59)
